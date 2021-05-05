@@ -1,3 +1,5 @@
-# Archivo base
-# Líder: David Damián Galán
+#Archivo Base 
+#Lider: David Damián Galán
+#Colaborador: Angie Ramírez Porras 
+
 
